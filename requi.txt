@@ -2,3 +2,4 @@ whitenoise
 django
 flask
 qrcode
+pillow
